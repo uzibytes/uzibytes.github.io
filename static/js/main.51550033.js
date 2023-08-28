@@ -13436,7 +13436,7 @@
                       children: (0, a.jsx)("div", {
                         className:
                           "text-green-300 font-bold text-2xl inline-block py-5 font-sans",
-                        children: "ujjwalraj.live",
+                        children: "ujjwalraj.me",
                       }),
                     }),
                     (0, a.jsxs)("div", {
