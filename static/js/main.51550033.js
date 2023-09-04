@@ -11215,6 +11215,16 @@
         },
         f = [
           {
+            role: "Internship",
+            company: "Ministry of Education's Innovation Cell, AICTE",
+            from: "Maintainance & Development of SIH Alumni Portal",
+            duration: "Management of Different AICTE Programs",
+            where: "March 9, 2023 - Present (AICTE Hq, New Delhi)",
+            website:
+              "https://www.mic.gov.in/",
+            image: u,
+          },
+          {
             role: "SIH Finalist",
             company: "Singapore India Hackathon 2022",
             from: "Developed Project on Delivering Financial Literacy at Scale",
@@ -11222,16 +11232,6 @@
             to: "# One among the top 24 Indian Finalists",
             website: "https://singaporeindiahackathon.com/",
             image: s,
-          },
-          {
-            role: "Internship",
-            company: "Ministry of Education's Innovation Cell, AICTE",
-            from: "Maintainance & Development of SIH Alumni Portal",
-            duration: "Management of Different AICTE Programs",
-            where: "March 9 - July 31, 2023 (AICTE Hq, New Delhi)",
-            website:
-              "https://www.mic.gov.in/",
-            image: u,
           },
           {
             role: "UIAH Winner",
