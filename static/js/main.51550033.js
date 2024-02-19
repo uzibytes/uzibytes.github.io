@@ -11170,7 +11170,7 @@
                         children: [
                           "I am a self-driven and enthusiastic ",
                           l(),
-                          "-year-old student based in Patna, India. Currently, I am in my 3rd Year pursuing a degree in Computer Science and Engineering at Bakhtiyarpur College Of Engineering.",
+                          "-year-old student based in Patna, India. Currently, I am in my Final Year pursuing B.Tech in Computer Science and Engineering at Bakhtiyarpur College Of Engineering, Patna.",
                         ],
                       }),
                       (0, a.jsx)("div", { className: e, children: "</p>" }),
@@ -11179,7 +11179,7 @@
                         className:
                           "leading-relaxed text-lg text-gray-300 transition-colors duration-200",
                         children:
-                          "During the month of March, I joined AICTE as an Web Dev & Process Management Intern at their Headquaters, New Delhi. I have also worked with Google as Google Developer Student Clubs Lead from my College for an year. In Addition to that I  have been Winner of UNESCO India Africa Hackathon 2022 & Smart India Hackathon 2022.",
+                          "Last year, I joined AICTE as an Web Dev & Process Management Intern at their Headquaters, New Delhi. I have also worked with Google as Google Developer Student Clubs Lead from my College for an year. In Addition to that I have been two-time Winner of Smart India Hackathon 2023 & 2022 and Winner of UNESCO India Africa Hackathon 2022.",
                       }),
                       (0, a.jsx)("div", { className: e, children: "</p>" }),
                       (0, a.jsx)("div", { className: e, children: "<p>" }),
@@ -11215,11 +11215,20 @@
         },
         f = [
           {
+            role: "SIH Winner",
+            company: "Smart India Hackathon 2023",
+            from: "Developed a mobile application that aims to revolutionise the textile sector with a streamlined & transparent supply chain management platform.",
+            where: "Dec 19 - Dec 20, 2023 (OIST, Bhopal, MP)",
+            website:
+              "https://www.sih.gov.in/",
+            image: si,
+          },
+          {
             role: "Internship",
             company: "Ministry of Education's Innovation Cell, AICTE",
             from: "Maintainance & Development of SIH Alumni Portal",
             duration: "Management of Different AICTE Programs",
-            where: "March 9, 2023 - Present (AICTE Hq, New Delhi)",
+            where: "March 9 - Nov 30, 2023 (AICTE Hq, New Delhi)",
             website:
               "https://www.mic.gov.in/",
             image: u,
@@ -11674,7 +11683,8 @@
         var t = e.type,
           n = e.year,
           r = e.school,
-          o = e.url;
+          o = e.url,
+          l = e.location;
         return (0, a.jsxs)("div", {
           className:
             "p-10 my-5 lg:my-0 bg-gray-800 text-gray-50 w-full md:w-5/6 lg:w-2/5 lg:mx-5 rounded shadow-lg hover:shadow-2xl",
@@ -11686,6 +11696,10 @@
               className:
                 "uppercase text-lg md:text-2xl hover:text-secondary dark:hover:text-secondaryDark font-bold",
               children: r,
+            }),
+            (0, a.jsx)("div", {
+              className: "text-secondaryDark",
+              children: l,
             }),
             (0, a.jsxs)("span", {
               className: "text-blue-300 block mb-3 font-mono",
@@ -11709,7 +11723,7 @@
       }
       var L = [
         {
-          url: "https://bcebakhtiyarpur.org/",
+          url: "https://bcebakhtiyarpur.ac.in/",
           school: "Bakhtiyarpur College of Engineering",
           year: "2020 - Present",
           type: ["B.Tech in Computer Science & Engineering"],
@@ -11734,7 +11748,7 @@
                 "flex py-10 justify-center content-center flex-wrap px-2",
               children: L.map(function (e, t) {
                 return (0,
-                a.jsx)(j, { url: e.url, school: e.school, year: e.year, type: e.type, location: e.location }, t);
+                a.jsx)(j, { url: e.url, school: e.school,location: e.location, year: e.year, type: e.type }, t);
               }),
             }),
           ],
@@ -11756,7 +11770,7 @@
                 children: [
                   (0, a.jsx)("a", {
                     className: "text-green-400 hover:text-primaryDark",
-                    href: "https://www.linkedin.com/in/ujjwal-raj-b2545a213/",
+                    href: "https://www.linkedin.com/in/uraj/",
                     children: "Click Here",
                   }),
                   " ",
@@ -11868,7 +11882,7 @@
         },
         {
           title: "LinkedIn",
-          url: "https://www.linkedin.com/in/ujjwal-raj-b2545a213/",
+          url: "https://www.linkedin.com/in/uraj/",
           icon: (0, a.jsx)(E, { className: "w-6 h-6 2xl:w-8 2xl:h-8" }),
         },
         {
